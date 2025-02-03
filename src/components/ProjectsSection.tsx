@@ -36,7 +36,7 @@ const projectsData = [
     id: 4,
     title: "Books Ecommerce Website",
     description: "You Can Read your favorite book.",
-    image: "/images/projects/book.png",
+    image: "/images/projects/book.PNG",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Taha258/project06_student_management_system.git",
     previewUrl: "https://blog-website-one-liart.vercel.app/", // Update with the actual preview URL
